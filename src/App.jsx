@@ -159,7 +159,7 @@ const App = () => {
           <div className="mt-12 max-w-sm mx-auto shadow-2xl rotate-1 bg-white p-2 border border-stone-100">
              <img src="[https://images.unsplash.com/photo-1500382017468-9049fee74a62?auto=format&fit=crop&q=80&w=800](https://images.unsplash.com/photo-1500382017468-9049fee74a62?auto=format&fit=crop&q=80&w=800)" className="w-full grayscale-[0.2]" alt="Poster" />
              <p className="py-3 text-[10px] text-stone-300 tracking-[0.3em]">CREATIONSTEM.ORG</p>
-          </div>
+          <./poster.png>
         </div>
       </section>
 
